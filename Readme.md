@@ -1,7 +1,7 @@
 # Cross-Lingual Transfer of Detoxification in Large Language Models
 
-Course: CS 613: Natural Language Processing (Sem-I, 2025-26)
+Project Course: CS 399 (Sem-I, 2025-26)
 
 ## Project Poster
 
-[Cross-Lingual Transfer of Detoxification in Large Language Models - Poster](./Cross-Lingual%20Transfer%20of%20Detoxification%20in%20Large%20Language%20Models.pdf)
+![Cross-Lingual Transfer of Detoxification in Large Language Models](https://github.com/user-attachments/assets/bf22c2fd-41e6-446d-9dd8-0581e9c57824)
